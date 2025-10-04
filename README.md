@@ -662,9 +662,6 @@ internship_assignment/
 │   ├── vite.config.js
 │   └── .env
 ├── README.md
-├── context.md
-├── PROJECT_COMPLETE_SUMMARY.md
-├── RESPONSIVE_DESIGN.md
 └── Book_Review_Platform.postman_collection.json
 ```
 
