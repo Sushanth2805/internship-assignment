@@ -7,6 +7,14 @@ A professional full-stack MERN application for managing and reviewing books with
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
+### ✅ Live Application
+
+**🌐 Frontend:** [https://internship-assignment-lilac.vercel.app](https://internship-assignment-lilac.vercel.app)
+
+**🔧 Backend API:** [https://book-review-platform-backend-a8d0.onrender.com](https://book-review-platform-backend-a8d0.onrender.com)
+
+**📡 API Base URL:** [https://book-review-platform-backend-a8d0.onrender.com/api](https://book-review-platform-backend-a8d0.onrender.com/api)
+
 ## 🚀 Features
 
 ### Core Features
@@ -540,28 +548,6 @@ http://localhost:5000/api
    ```
    VITE_API_URL=your_backend_deployment_url/api
    ```
-4. **Deploy**
-
-## 📸 Screenshots
-
-### Homepage
-
-![Homepage](screenshots/homepage.png)
-
-### Book Details
-
-![Book Details](screenshots/book-details.png)
-
-### User Profile
-
-![Profile](screenshots/profile.png)
-
-### Dark Mode
-
-![Dark Mode](screenshots/dark-mode.png)
-
-## 🧪 Testing
-
 ### API Testing with Postman
 
 Import the provided `Book_Review_Platform.postman_collection.json` file into Postman for comprehensive API testing.
@@ -682,32 +668,4 @@ internship_assignment/
 └── Book_Review_Platform.postman_collection.json
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
-
-- MongoDB Atlas for database hosting
-- Cloudinary for image storage
-- Tailwind CSS for styling
-- React community for excellent documentation
-
----
-
-**⭐ If you found this project helpful, please give it a star!**
